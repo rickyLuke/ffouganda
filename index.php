@@ -55,7 +55,7 @@
         <div class="container">
             <div class="card">
                 <div class="img">
-                    <a href="">
+                    <a href="./programs/ffou-water-sanitation/">
                         <img src="./images/gallery/ffouganda-free-boreholes-clean-water/2024/22.jpeg">
                     </a>
                 </div>
@@ -66,7 +66,7 @@
 
             <div class="card">
                 <div class="img">
-                    <a href="">
+                    <a href="./programs/ffou-reach-community/">
                         <img src="./images/gallery/ffouganda-communal-services/2024/40.jpg">
                     </a>
                 </div>
@@ -77,7 +77,7 @@
 
             <div class="card">
                 <div class="img">
-                    <a href="">
+                    <a href="./programs/ffou-skills-development/">
                         <img src="./images/gallery/ffouganda-sports/2024/1.jpeg">
                     </a>
                 </div>
@@ -88,7 +88,7 @@
 
             <div class="card">
                 <div class="img">
-                    <a href="">
+                    <a href="./programs/ffou-water-sanitation/">
                         <img src="./images/gallery/ffouganda-food-outreach/2024/8.jpeg">
                     </a>
                 </div>
@@ -99,7 +99,7 @@
 
             <div class="card">
                 <div class="img">
-                    <a href="">
+                    <a href="./programs/ffou-education-support/">
                         <img src="./images/gallery/ffouganda-alux-school/2024/3.jpeg">
                     </a>
                 </div>
@@ -110,7 +110,7 @@
 
             <div class="card">
                 <div class="img">
-                    <a href="">
+                    <a href="./programs/ffou-skills-development/">
                         <img src="./images/gallery/ffouganda-skilling/2024/8.jpeg">
                     </a>
                 </div>
