@@ -135,7 +135,7 @@
                     Millions of children are trapped in a cycle of hardship, forced into labor, trafficking, or violence instead of being in school. Surrounded by war and abuse, they endure trauma, depression, and loss of hope. Each year, 15 million die from hunger. Together, we can give them a chance for a better future.
                 </p>
 
-                <a href="">Donate</a>
+                <a href="./contact/">Donate</a>
             </div>
         </div>
     </article>
@@ -148,7 +148,7 @@
                     By providing access to education, food, and safety, we can transform the lives of vulnerable children and the elderly facing unimaginable hardships. Your support helps break the cycle of poverty, hunger, and violence, giving these children the opportunity to thrive, dream, and smile again. With your help, we can restore hope and build a brighter future for every child.
                 </p>
 
-                <a href="">Donate</a>
+                <a href="./contact/">Donate</a>
             </div>
 
             <div class="img">
