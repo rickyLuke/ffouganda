@@ -49,7 +49,7 @@
                     </ul>
                 </li>
                     
-                <li><a href="<?=$baseUrl?>gallery/">Gallery<span></span></a></li>
+                <!-- <li><a href="<?=$baseUrl?>gallery/">Gallery<span></span></a></li> -->
                 <li><a href="<?=$baseUrl?>contact/">Contact Us<span></span></a></li>
             </ul>
 
