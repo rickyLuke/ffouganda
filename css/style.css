@@ -45,6 +45,12 @@
 	margin-bottom: 25px;
 }
 
+@media (max-width: 400px){
+	.spacer{
+		margin-bottom: 80px;
+	}
+}
+
 .p-title{
 	background: var(--secondary-color);
 	color: black;
