@@ -26,7 +26,7 @@
         <div class="spacer">
             <h4>Get In Touch</h4>
             <p>We're here to listen:</p>                            
-            <address class="s1">
+            <address>
                 <p><span class="fa fa-map-marker"></span> Parliamentary Av, Kampala</p>
                 <p><span class="fa fa-phone"></span> +256 783282541</p>
                 <a href="mailto:info@affouganda.org"> <span class="fa fa-envelope-o"></span> info@affouganda.org</a>

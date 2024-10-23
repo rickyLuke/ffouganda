@@ -26,12 +26,14 @@
     <?php require_once "./inc/header.php"; ?>
     <!-- header end -->
 
+    <!-- hero begin -->
     <div class="hero spacer" id="top">
         <div>
             <img src="./images/gallery/ffouganda-alux-school/ffouganda-1.jpg" alt="ffouganda">
         </div>
         <p class="container">Empowering Orphans, Building Brighter Futures.</p>
     </div>
+    <!-- hero close -->
 
     <main>
         <div class="container spacer" id="intro">
