@@ -281,8 +281,6 @@ header{
 #mainmenu>ul >li:hover ul{
 	display: block;
 }
-
-
 #mainmenu>ul li ul{
 	width: 200px !important;
 	margin-left: 15px;	
@@ -367,6 +365,7 @@ header{
 		height: auto;
 		display: flex;
 		align-items: center;
+		overflow: hidden;
 	}
 	#mainmenu> ul{
 		display: flex;

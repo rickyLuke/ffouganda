@@ -1,5 +1,5 @@
 <?php
 
-$baseUrl = "https://ffouganda.org";
+$baseUrl = "https://ffouganda.org/";
 
 ?>
