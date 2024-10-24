@@ -10,7 +10,7 @@
     
     <!-- favicons Icons -->
     <link rel="apple-touch-icon" sizes="180x180" href="images/favicons/apple-touch-icon.png">
-    <link rel="icon" type="image/x-icon" href="images/favicons/favicon.ico">
+    <link rel="icon" type="image/x-icon" href="images/favicons/favicon-32x32.png">
     <meta name="description" content="A Future For Orphans Uganda, let's join hands to improve life of every teenage mother, orphans, the elderly and disability people.">
     <script src="https://kit.fontawesome.com/e31240470d.js" crossorigin="anonymous"></script>
     <script type="text/javascript" src="./js/style.js" defer></script>
