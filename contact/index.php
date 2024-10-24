@@ -72,10 +72,10 @@
             	<div>
 					<h3>Uganda Office</h3>
 					<address class="s1">
-						<p><span class="id-color fa fa-map-marker fa-lg"></span> Parliamentary Av., Kampala</p>
-						<p><span class="id-color fa fa-phone fa-lg"></span> +256 783282541</p>
-                        <p><span class="fa fa-envelope-o fa-lg"></span> P. O. Box, 110688, Kampala, Uganda</p>
-						<a href="mailto:info@affouganda.org"> <span class="fa fa-envelope-o"></span> info@affouganda.org</a>
+						<p><span class="id-color fa fa-map-marker"></span> Hoima road next to Total energies Namungona, Kasubi</p>
+						<p><span class="id-color fa fa-phone"></span> +256 783282541</p>
+                        <p><span class="fa fa-envelope-o"></span> P. O. Box, 110688, Kampala, Uganda</p>
+						<a href="mailto:info@ffouganda.org"> <span class="fa fa-envelope-o"></span> info@ffouganda.org</a>
 					</address>
 				</div>
 
@@ -83,8 +83,10 @@
 					<h3>International Contacts</h3>
 					<address>
 						<p><span class="fa fa-map-marker"></span> Belgium, Turkey, Romania, Netherlands</p>
-						<p><span class="fa fa-phone"></span> Coming Soon</p>
-						<a href="mailto:info@affouganda.org"> <span class="fa fa-envelope-o"></span> info@affouganda.org</a>
+						<a href="https://wa.me/32466490141" target="_blank">
+						  <span class="fa fa-whatsapp"></span> +32 466 490141
+						</a><br>
+						<a href="mailto:info@ffouganda.org"> <span class="fa fa-envelope-o"></span> info@ffouganda.org</a>
 					</address>
 				</div>
             </div>

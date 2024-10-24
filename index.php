@@ -91,11 +91,11 @@
             <div class="card">
                 <div class="img">
                     <a href="./programs/ffou-water-sanitation/">
-                        <img src="./images/gallery/ffouganda-food-outreach/2024/8.jpeg">
+                        <img src="./images/gallery/ffouganda-food-outreach/2024/6.jpeg">
                     </a>
                 </div>
                 <div class="info">
-                    <p>Building Boreholes, Delivering Clean Water.</p>
+                    <p>Food outreach to villages.</p>
                 </div>
             </div>
 

@@ -47,7 +47,7 @@
                 <span class="p-title">Who We Are</span><br>
                 <h2>A Future for Orphans Uganda.</h2>
                 <p>
-                    A Future for Orphans Uganda was established in 2016 by Katende John Bosco, Janique Vanmeen and Hon. Kafuuzi Jackson. This was later registered with the Uganda Registration Services Bureau (URSB); certificate number BRS INCC-9-17/74088 AND registration number 80020030531430 getting legal rights to operate within the country as a requirement by the ministry of Ministry of Internal affairs and commissioned by the first lady who is also a Minister of Education and sports Janet Kataaha Museveni on 13th Oct 2018.
+                    <strong>A Future for Orphans Uganda</strong> was established in 2016 with the aim of addressing the unique challenges faced by orphaned children, single teenage mothers and vulnerable youth in Uganda. The organization is officially registered with the Uganda Registration Services Bureau (URSB), holding certificate number <strong>BRS INCC-9-17/74088</strong>, and registration number <strong>80020030531430</strong>. Additionally, it is registered with the National Bureau for Non-Governmental Organizations, holding certificate number <strong>INDR160095191NB</strong> and permit number <strong>INDP005191NB</strong>. The organization received legal recognition to operate within the country, fulfilling the requirements set by the Ministry of Internal Affairs.
                 </p>
             </div>
 

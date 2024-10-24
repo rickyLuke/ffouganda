@@ -59,10 +59,6 @@
         <div class="imgs">
             <div class="container">
                 <div>
-                    <img src="../../images/gallery/ffouganda-food-outreach/2024/8.jpeg" alt="children-baking">
-                </div>
-
-                <div>
                     <img src="../../images/gallery/ffouganda-food-outreach/2024/9.jpeg" alt="children-crafting">
                 </div>
 
