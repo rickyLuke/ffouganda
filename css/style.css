@@ -364,7 +364,6 @@ header{
 		height: auto;
 		display: flex;
 		align-items: center;
-		overflow: hidden;
 	}
 	#mainmenu> ul{
 		display: flex;
