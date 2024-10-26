@@ -123,7 +123,7 @@
 
             <div class="card">
                 <div class="img">
-                    <a href="./programs/ffouganda-medical-camps/">
+                    <a href="./programs/ffou-medical-camps/">
                         <img src="./images/gallery/ffouganda-medical-camps/2024/4.jpeg">
                     </a>
                 </div>
