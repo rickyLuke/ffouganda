@@ -120,6 +120,17 @@
                     <p>Equiping teenagers with handson skill.</p>
                 </div>
             </div>
+
+            <div class="card">
+                <div class="img">
+                    <a href="./programs/ffouganda-medical-camps/">
+                        <img src="./images/gallery/ffouganda-medical-camps/2024/4.jpeg">
+                    </a>
+                </div>
+                <div class="info">
+                    <p>Medical Camps to better people's lives.</p>
+                </div>
+            </div>
         </div>        
     </section>
     <!-- section end -->

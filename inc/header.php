@@ -46,6 +46,7 @@
                         <li><a href="<?=$baseUrl?>programs/ffou-agriculture-support/">Agriculture Support</a></li>
                         <li><a href="<?=$baseUrl?>programs/ffou-talent-development/">Talent Development</a></li>
                         <li><a href="<?=$baseUrl?>programs/ffou-reach-community/">Reach to the Community</a></li>
+                        <li><a href="<?=$baseUrl?>programs/ffou-medical-camps/">Medical Camps</a></li>
                     </ul>
                 </li>
                     
