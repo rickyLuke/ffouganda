@@ -39,7 +39,7 @@
 				<div>
 					<h3>Do you have any question?</h3>
 							
-					<form name="contactForm" id="contact_form" class="form-border" method="post" action="email.php">
+					<form name="contactForm" id="contact_form" class="form-border" method="post">
 						<div class="field-set">
 							<input type="text" name="name" id="name" class="form-control" placeholder="Your Name" maxlength="100" />
 						</div>
