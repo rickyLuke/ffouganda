@@ -29,7 +29,7 @@ send.addEventListener('click', (e)=>
             'Content-Type' : 'application/json; charset=UTF-8' 
         };
         
-        fetch(`email.php`, options)
+        fetch(`../email.php`, options)
         .then((response)=>
         {
             if(response.ok)
