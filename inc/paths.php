@@ -1,6 +1,6 @@
 <?php
 
-$baseUrl = "https://ffouganda.org/";
-// $baseUrl = "http://localhost/ffouganda/";
+// $baseUrl = "https://ffouganda.org/";
+$baseUrl = "http://localhost/ffouganda/";
 
 ?>
