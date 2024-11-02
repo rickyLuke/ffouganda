@@ -63,10 +63,6 @@
                 </div>
 
                 <div>
-                    <img src="../../images/gallery/ffouganda-food-outreach/2024/6.jpeg" alt="sewing-machine-donated">
-                </div>
-
-                <div>
                     <img src="../../images/gallery/ffouganda-communal-services/2024/1.jpeg" alt="ffouganda-communal-services">    
                 </div>
 

@@ -833,16 +833,17 @@ article .img{
 }
 .service-info .imgs .container > div{
 	flex: 0 0 320px;
-	width: 200px;
+	width: 150px;
 	height: 200px;
-	margin-right: 15px;
+	margin-right: 10px;
 	overflow: hidden;
 	display: flex;
 	border-radius: 8px;
 }
-.service-info .imgs .container > div img{
-	height: 100%;
-	width: auto;
+.service-info .imgs .container > div img{	
+	width: 100%;
+	object-fit: contain;
+	object-position: center;
 }
 
 @media (min-width: 1000px){
