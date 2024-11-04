@@ -67,7 +67,7 @@
                 </div>
 
                 <div>
-                    <img style="transform: translateY(-30px);" src="../../images/gallery/ffouganda-communal-services/2024/40.jpg" alt="ffouganda-communal-services">
+                    <img style="transform: translateY(-50px);" src="../../images/gallery/ffouganda-communal-services/2024/40.jpg" alt="ffouganda-communal-services">
                 </div>  
 
                 <div>
@@ -75,7 +75,7 @@
                 </div>
 
                 <div>
-                    <img src="../../images/gallery/ffouganda-communal-services/2024/3.jpeg" alt="ffouganda-communal-services">    
+                    <img style="transform: translateY(-50px);"  src="../../images/gallery/ffouganda-communal-services/2024/3.jpeg" alt="ffouganda-communal-services">    
                 </div>                      
             </div>            
         </div>              
