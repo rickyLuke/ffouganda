@@ -47,7 +47,15 @@
                 <span class="p-title">No one needs to starve.</span><br>
                 <h2>A healthy mind and body.</h2>
                 <p>
-                    The organization has been actively reaching out to vulnerable communities, distributing food to those in need. With a dedicated team of volunteers, they have provided essential relief to families struggling with hunger. Their ongoing efforts aim to address food insecurity by delivering nutritious meals, ensuring that no one is left behind. Through these initiatives, the organization has brought hope and support to many, making a significant difference in the lives of the less fortunate. 
+                    Our organization is dedicated to supporting vulnerable communities through a range of impactful initiatives. With the help of a committed team of volunteers, we have been actively reaching out to those in need, delivering food and providing essential relief to families facing hunger. Our food distribution efforts aim to address food insecurity by ensuring that nutritious meals reach those who need them most, offering hope and support to communities struggling to make ends meet.
+                </p>
+
+                <p>
+                    In addition to food assistance, we also organize communal cleaning activities to improve living conditions and promote healthier environments. Volunteers come together to clean public areas, clear waste, and engage in efforts that foster cleanliness and sanitation within villages. This initiative not only enhances community spaces but also encourages residents to take pride in their surroundings, creating a cleaner and more sustainable environment for all.
+                </p>
+
+                <p>
+                    Through these combined efforts, we are making a significant difference in the lives of the less fortunate, providing both immediate relief and long-term benefits. Our commitment is to bring positive change to communities, ensuring that everyone has access to basic needs and a healthier, cleaner place to live.
                 </p>
             </div>
 
