@@ -72,7 +72,7 @@
                 </div> 
 
                 <div>
-                    <img src="../../images/gallery/ffouganda-agriculture/2024/5.jpeg" alt="agriculture">
+                    <img src="../../images/gallery/ffouganda-agriculture/2024/9.jpeg" alt="agriculture">
                 </div> 
 
                 <div>
