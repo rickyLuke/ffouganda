@@ -59,13 +59,17 @@
 
         <div class="imgs">
             <div class="container">
-                <!-- <div>
-                    <img src="../../images/gallery/ffouganda-agriculture/2024/5.jpeg" alt="children-baking">
+                <div>
+                    <img src="../../images/gallery/ffouganda-agriculture/2024/3.jpeg" alt="agriculture">
                 </div>
 
                 <div>
-                    <img src="../../images/gallery/ffouganda-agriculture/2024/6.jpg" alt="children-crafting">
-                </div>  -->                    
+                    <img src="../../images/gallery/ffouganda-agriculture/2024/6.jpg" alt="agriculture">
+                </div>      
+
+                <div>
+                    <img src="../../images/gallery/ffouganda-agriculture/2024/4.jpeg" alt="agriculture">
+                </div>                
             </div>            
         </div>              
     </section>
