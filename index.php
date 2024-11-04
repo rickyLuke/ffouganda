@@ -90,8 +90,8 @@
 
             <div class="card">
                 <div class="img">
-                    <a href="./programs/ffou-water-sanitation/">
-                        <img src="./images/gallery/ffouganda-food-outreach/2024/6.jpeg">
+                    <a href="./programs/ffou-reach-community/">
+                        <img src="./images/gallery/ffouganda-food-outreach/2024/1.jpeg">
                     </a>
                 </div>
                 <div class="info">
