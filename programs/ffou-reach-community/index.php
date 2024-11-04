@@ -59,7 +59,7 @@
         <div class="imgs">
             <div class="container">
                 <div>
-                    <img src="../../images/gallery/ffouganda-food-outreach/2024/9.jpeg" alt="children-crafting">
+                    <img src="../../images/gallery/ffouganda-food-outreach/2024/9.jpeg" alt="ffouganda-food-outreach">
                 </div>
 
                 <div>
@@ -67,7 +67,7 @@
                 </div>
 
                 <div>
-                    <img src="../../images/gallery/ffouganda-communal-services/2024/40.jpg" alt="children-hair-dressing">
+                    <img style="transform: translateY(-30px);" src="../../images/gallery/ffouganda-communal-services/2024/40.jpg" alt="ffouganda-communal-services">
                 </div>                        
             </div>            
         </div>              
