@@ -69,7 +69,7 @@
             <div id="mission">
                 <h3>Mission</h3>
                 <p>
-                    To improve the quality of life and social wellbeing of the vulnerable children through suitable and well equipped alternatives in Uganda by 2023.
+                    To improve the quality of life and social wellbeing of the vulnerable children through suitable and well equipped alternatives in Uganda.
                 </p>
             </div>
 
