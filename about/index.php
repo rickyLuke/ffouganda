@@ -98,7 +98,7 @@
         <div class="container">
             <div class="f-profile">
                 <div class="ppic">                                
-                    <img src="../images/team/1.jpg" class="fp-image img-fluid" alt="">
+                    <img src="../images/team/1b.jpeg" class="fp-image img-fluid" alt="">
                 </div>
 
                 <div class="pinfo">
@@ -109,7 +109,7 @@
 
             <div class="f-profile">
                 <div class="ppic">                                
-                    <img src="../images/team/9.jpg" class="fp-image img-fluid" alt="">
+                    <img src="../images/team/9b.jpeg" class="fp-image img-fluid" alt="">
                 </div>
 
                 <div class="pinfo">
