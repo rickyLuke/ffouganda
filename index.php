@@ -220,7 +220,7 @@
 
     <!-- map directions -->
     <div id="map" class="container">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7500191668382!2d32.54577567486614!3d0.335255399661461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbb861ef5afdb%3A0x753a950063a41bf6!2sA%20Future%20For%20Orphans%20Uganda!5e0!3m2!1sen!2sug!4v1755078360518!5m2!1sen!2sug" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.8183203386857!2d32.0395594!3d0.0000857!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177d61c19b2590a3%3A0x950438336af62009!2sALUX%20SCHOOL%20UGANDA!5e0!3m2!1sen!2sug!4v1755090330879!5m2!1sen!2sug" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
     </div>
     <!-- map directions end -->
 
