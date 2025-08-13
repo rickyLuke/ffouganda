@@ -50,6 +50,15 @@
                 </p>
             </div>
         </div>
+
+
+        <div class="container banner">
+            <picture>
+                <source srcset="./images/banner1_small.png" media="(max-width: 750px)">
+                <source srcset="./images/banner1_wide.png" media="(min-width: 751px)">
+                <img src="./images/banner1_small.png">
+            </picture>
+        </div>
     </main>
 
     <!-- section begin -->
@@ -186,6 +195,34 @@
         </div>
     </section>
     <!-- sponsors end -->
+
+    <!-- updates -->
+    <div class="updates">
+        <div class="container">
+            <h1>
+                News and Updates
+            </h1>
+
+            <div class="content">
+                <div class="content_card">
+                    <video class="video" controls muted src="./videos/ffouganda-tailoring-session.mp4"></video>
+                    <p class="video_title"><a href=""></a> Students undergoing a tailoring class.</p>
+                </div>
+
+                <!-- <div class="content_card">
+                    <video class="video" controls muted src="./videos/ffouganda-tailoring-session.mp4"></video>
+                    <p class="video_title"><a href=""></a> Video info</p>
+                </div>  -->               
+            </div>
+        </div>
+    </div>
+    <!-- updates end -->
+
+    <!-- map directions -->
+    <div id="map" class="container">
+        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3989.7500191668382!2d32.54577567486614!3d0.335255399661461!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x177dbb861ef5afdb%3A0x753a950063a41bf6!2sA%20Future%20For%20Orphans%20Uganda!5e0!3m2!1sen!2sug!4v1755078360518!5m2!1sen!2sug" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+    </div>
+    <!-- map directions end -->
 
     <!-- footer begin -->
     <?php require_once "./inc/footer.php"; ?>
